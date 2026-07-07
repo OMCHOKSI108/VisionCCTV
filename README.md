@@ -13,6 +13,10 @@ The project builds on the earlier `YOLOSystem` work and extends it into a more c
 
 ---
 
+
+kaggle notebook : https://www.kaggle.com/code/omchoksi04/faceidentificationsystemyolo
+
+
 ## Demo Showcase
 
 <p align="center">
